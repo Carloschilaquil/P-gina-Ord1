@@ -1,0 +1,71 @@
+#menu{
+    background-color: darkgreen;
+}
+
+#menu a{
+    font-size: 18px;
+    color: gold;
+}
+
+.dropdown-menu a{
+    color: black !important;
+}
+
+.active{
+    background-color: darkblue;
+}
+
+#contenedor{
+    
+    margin: auto;
+    background-color:rgb(255, 255, 192) ;
+    
+    text-align:justify ;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position:fixed;
+    width: 100%;
+    top: 0;
+}
+
+.main .articles{
+    width: 68.5%;
+    float: left;
+    margin-right: 1.5%;
+}
+
+.main .articles article{
+    padding: 20px;
+    background-color: beige;
+}
+
+footer{
+    background-color: black;
+    color: antiquewhite;
+    clear: both;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: Garamond, serif;
+}
+
+h1{
+    font-family: "Brush Script MT", cursive;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+
